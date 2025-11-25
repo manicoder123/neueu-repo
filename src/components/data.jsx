@@ -10,7 +10,7 @@ export const productData = [
     icon: <AppointmentIcon />,
     bgClass: "bg-box3",
     title: "Semaglutide Consultation (Brand Name)",
-    price: "$149",
+    price: "$99",
     type: "Appointment Only",
     calander: "https://offer.neueu.co/branded-semaglutide",
     features: [
@@ -27,7 +27,7 @@ export const productData = [
     icon: <AppointmentIcon />,
     bgClass: "bg-[#FFDCCC]",
     title: "Tirzepatide Consultation (Brand Name)",
-    price: "$149",
+    price: "$99",
     type: "Appointment Only",
     calander: "https://offer.neueu.co/branded-tirzepatide",
     features: [
