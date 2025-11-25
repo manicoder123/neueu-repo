@@ -5,7 +5,7 @@ export default function Page() {
     <div>
       {/* blog page  */}
       <iframe
-        src="https://offer.neueu.co/blog-8155"
+        src="https://offer.neueu.co/blog"
         className="w-full h-[100vh] border-0"
         title="NeuEu Blog"
       ></iframe>
