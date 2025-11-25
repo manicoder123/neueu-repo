@@ -44,7 +44,7 @@ export const productData = [
     icon: <Engaction />,
     bgClass: "bg-box1",
     title: "Semaglutide Package (Compounded)",
-    price: "$349",
+    price: "$329",
     type: "Medication + Appointment",
     calander: "https://offer.neueu.co/compounded-semaglutide",
     features: [
@@ -61,7 +61,7 @@ export const productData = [
     icon: <Engactionwhite />,
     bgClass: "bg-[#D77979]",
     title: "Tirzepatide Package (Compounded)",
-    price: "$449",
+    price: "$359",
     type: "Medication + Appointment",
     calander: "https://offer.neueu.co/compounded-tirzepatide",
     features: [
