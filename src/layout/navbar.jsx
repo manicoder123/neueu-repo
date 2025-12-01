@@ -117,7 +117,7 @@ export default function Navbar({ className, containerClass }) {
             </span>
           </button>
           <button
-            onClick={() => router.push("/eligibility")}
+            onClick={() => router.push("/#plans")}
             className="bg-primary px-8 py-3 rounded-full text-white hover:bg-[#CA6464] transition duration-150 cursor-pointer"
           >
             Sign Up
