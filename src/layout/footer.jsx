@@ -8,7 +8,7 @@ const navLinks = [
   { title: "Plans", href: "#plans" },
   { title: "FAQs", href: "#faqs" },
   { title: "Book Consultation", href: "#book" },
-  { title: "Sign Up", href: "/eligibility" },
+  { title: "Sign Up", href: "/#plans" },
   { title: "Blogs", href: "/blog" },
 ];
 
