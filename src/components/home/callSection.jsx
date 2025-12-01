@@ -26,7 +26,7 @@ export default function CallSection() {
       </h2>
 
       <Link
-        href="/eligibility"
+        href="https://offer.neueumed.com/free-consultation"
         className="md:mt-10 mt-3 relative z-10 mx-auto flex items-center justify-center px-8 border md:w-fit w-full border-primary text-primary font-semibold py-3 rounded-full hover:bg-primary hover:text-white transition"
       >
         Book Free Consultation
