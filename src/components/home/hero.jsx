@@ -35,7 +35,7 @@ export default function Hero() {
             </p>
             <div className="flex items-center gap-3 mt-5 ">
               <Link
-                href="https://offer.neueumed.com/medical-consultation"
+                href="https://offer.neueumed.com/free-consultation"
                 className="flex items-center gap-3 font-medium bg-primary hover:bg-[#814a4a] px-7 py-3 text-white rounded-full md:w-fit w-full text-sm"
               >
                 Book Free Consultation
