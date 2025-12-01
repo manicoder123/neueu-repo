@@ -41,7 +41,7 @@ export default function Hero() {
                 Book Free Consultation
               </Link>
               <Link
-                href="/eligibility"
+                href="/#plans"
                 className="flex items-center gap-3 font-medium bg-[#FFE5E5] hover:bg-[#814a4a] px-7 py-3 text-black hover:text-white rounded-full md:w-fit w-full text-sm"
               >
                  Get Started Now <BsArrowRightShort />
