@@ -22,6 +22,7 @@ export const productData = [
       "Follow-ups not included",
       "One time consult",
     ],
+    url: "https://offer.neueumed.com/semaglutide-consultation-survey",
   },
   {
     icon: <AppointmentIcon />,
@@ -39,6 +40,7 @@ export const productData = [
       "Follow-ups not included",
       "One time consult",
     ],
+    url: "https://offer.neueumed.com/tirzepatide-consultation-survey",
   },
   {
     icon: <Engaction />,
@@ -56,6 +58,7 @@ export const productData = [
       "Medication included (1 month)",
       "No insurance required",
     ],
+    url: "https://offer.neueumed.com/semaglutide-package-survey",
   },
   {
     icon: <Engactionwhite />,
@@ -73,5 +76,6 @@ export const productData = [
       "Medication included (1 month)",
       "Cash Pay, No insurance required",
     ],
+    url: "https://offer.neueumed.com/tirzepatide-package-survey",
   },
 ];

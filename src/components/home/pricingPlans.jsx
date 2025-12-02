@@ -186,7 +186,7 @@ export default function PricingPlans() {
                   }}
                 >
                   <Link
-                    href="/eligibility"
+                    href={plan.url}
                     onClick={() => {
                       const product = {
                         img: productData[index].img,
