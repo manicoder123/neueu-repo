@@ -11,8 +11,8 @@ import { IoMdCall } from "react-icons/io";
 
 const HomeData = [
   { name: "Home", path: "/" },
-  { name: "About", path: "#about" },
-  { name: "Faq", path: "#faqs" },
+  { name: "About", path: "neueu.co/#about" },
+  { name: "Faq", path: "neueu.co/#faqs" },
   { name: "Blog", path: "/blog" },
 ];
 
