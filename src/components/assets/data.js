@@ -502,38 +502,43 @@ content: `
 <br>
 <p>To calculate it, use the Harris-Benedict Formula:</p>
 <br/><br />
-<table border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%;">
-  <tr>
-    <th>Activity Level</th>
-    <th>Description</th>
-    <th>Activity Factor</th>
-  </tr>
-  <tr>
-    <td>Sedentary</td>
-    <td>Little or no exercise</td>
-    <td>1.2</td>
-  </tr>
-  <tr>
-    <td>Lightly Active</td>
-    <td>Light exercise/sports 1–3 days/week</td>
-    <td>1.375</td>
-  </tr>
-  <tr>
-    <td>Moderately Active</td>
-    <td>Moderate exercise/sports 3–5 days/week</td>
-    <td>1.55</td>
-  </tr>
-  <tr>
-    <td>Very Active</td>
-    <td>Hard exercise/sports 6–7 days/week</td>
-    <td>1.725</td>
-  </tr>
-  <tr>
-    <td>Extra Active</td>
-    <td>Physical job or two-a-day workouts</td>
-    <td>1.9</td>
-  </tr>
+<table style="width:100%; border:1px solid #ddd; border-collapse:collapse;">
+  <thead>
+    <tr style="background-color:#f2f2f2;">
+      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Activity Level</th>
+      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Description</th>
+      <th style="border:1px solid #ddd; padding:8px; text-align:left;">Activity Factor</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px;">Sedentary</td>
+      <td style="border:1px solid #ddd; padding:8px;">Little or no exercise</td>
+      <td style="border:1px solid #ddd; padding:8px;">1.2</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px;">Lightly Active</td>
+      <td style="border:1px solid #ddd; padding:8px;">Light exercise/sports 1–3 days/week</td>
+      <td style="border:1px solid #ddd; padding:8px;">1.375</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px;">Moderately Active</td>
+      <td style="border:1px solid #ddd; padding:8px;">Moderate exercise/sports 3–5 days/week</td>
+      <td style="border:1px solid #ddd; padding:8px;">1.55</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px;">Very Active</td>
+      <td style="border:1px solid #ddd; padding:8px;">Hard exercise/sports 6–7 days/week</td>
+      <td style="border:1px solid #ddd; padding:8px;">1.725</td>
+    </tr>
+    <tr>
+      <td style="border:1px solid #ddd; padding:8px;">Extra Active</td>
+      <td style="border:1px solid #ddd; padding:8px;">Physical job or two-a-day workouts</td>
+      <td style="border:1px solid #ddd; padding:8px;">1.9</td>
+    </tr>
+  </tbody>
 </table>
+
 <p>Multiply your BMR by the right factor to estimate how many calories you need daily to maintain your current weight.</p>
 <br><br>
 
@@ -602,9 +607,10 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
 
 <h2>Ready to start your transformation?</h2>
 <a href="https://offer.neueumed.com/free-consultation" 
-   style="display:inline-block; padding:12px 24px; text-decoration:none; font-weight:bold;">
+   style="display:inline-block; padding:12px 24px; background-color:#FF6B6B; color:white; text-decoration:none; font-weight:bold;">
   Book your free consultation today 
 </a>
 <p>And discover how personalized, medical weight loss can work for you.</p>
-`},
+`
+},
 ];
