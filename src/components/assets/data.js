@@ -547,12 +547,12 @@ content: `
         Tracking your diet doesn’t have to mean scribbling notes or logging every crumb. Technology makes it easy and even fun.
 </p>
 <p>Wearable devices like Fitbit, Apple Watch, and Garmin track:</p>
-<ul>
-  <li>Steps and activity levels</li>
-  <li>Calories burned</li>
-  <li>Active minutes</li>
-  <li>Heart rate trends</li>
-</ul>
+<ul style={{ listStyle: 'disc', paddingLeft: '1.5rem' }}>
+    <li>Steps and activity levels</li>
+    <li>Calories burned</li>
+    <li>Active minutes</li>
+    <li>Heart rate trends</li>
+  </ul>
 
 <br /><br />
 
