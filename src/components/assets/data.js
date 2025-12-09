@@ -569,13 +569,13 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
 <h2>Step 5: Rethink “Diet” — Make It a Lifestyle</h2>
 <p>A healthy diet isn’t about restriction; it’s about balance and awareness.</p>
 <br>
-<p>Focus on:</p>
-<ul>
+<p>Focus on:</p><br>
+<ul style={{ listStyle: 'disc', paddingLeft: '1.5rem' }}>
 <li>Whole, nutrient-dense foods</li>
 <li>Staying hydrated</li>
 <li>Consistent movement</li>
 <li>Mindful tracking</li>
-</ul>
+</ul><br>
 <p>When you nourish your body intelligently and track your progress with purpose, you’ll gain more than weight loss—you'll gain confidence, energy, and a lasting sense of control over your health.</p>
 <br /><br />
 
@@ -586,18 +586,19 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
 </p>
 <br /><br />
 
-<h2>Our Process</h2>
-<ol>
+<h2>Our Process</h2><br>
+<ol style={{ paddingLeft: '1.5rem', listStyleType: 'decimal' }}>
   <li>Complete your online assessment</li>
   <li>Schedule a virtual consultation with a certified provider</li>
   <li>Receive a personalized treatment plan with custom dosing</li>
   <li>Medication shipped directly to your door</li>
   <li>Enjoy ongoing support, coaching, and 24/7 messaging</li>
 </ol>
+
 <br /><br />
 
 <h2>Transparent Pricing Includes:</h2>
-<ul>
+<ul style={{ listStyle: 'disc', paddingLeft: '1.5rem' }}>
   <li>Unlimited provider consultations</li>
   <li>Medication & supplies</li>
   <li>Personalized coaching and lifestyle guidance</li>
