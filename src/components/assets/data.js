@@ -537,7 +537,7 @@ content: `
       <td style="border:1px solid #ddd; padding:8px;">1.9</td>
     </tr>
   </tbody>
-</table>
+</table><br>
 
 <p>Multiply your BMR by the right factor to estimate how many calories you need daily to maintain your current weight.</p>
 <br><br>
@@ -606,11 +606,11 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
 <br /><br />
 
 <h2>Ready to start your transformation?</h2>
+<br><br>
+<p> Book your free consultation today And discover how personalized, medical weight loss can work for you.</p><br>
 <a href="https://offer.neueumed.com/free-consultation" 
-   style="display:inline-block; padding:12px 24px; background-color:#FF6B6B; color:white; text-decoration:none; font-weight:bold;">
+   style="display:inline-block; padding:12px 24px; background-color:#761010; border-radius:8px; color:white; text-decoration:none; font-weight:bold;">
   Book your free consultation today 
-</a>
-<p>And discover how personalized, medical weight loss can work for you.</p>
-`
+</a>`
 },
 ];
