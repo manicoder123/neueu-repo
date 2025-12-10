@@ -681,7 +681,7 @@ It’s not just a GLP-1 agonist — it's a dual-agonist, targeting both GLP-1 an
 By activating both hormone pathways, Tirzepatide enhances insulin sensitivity and appetite control simultaneously.
 This dual mechanism helps many patients experience faster fat loss and greater metabolic improvements compared to single-hormone medications.
 </p>
-
+<br>
 <p><b>Who It’s Best For</b></p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Those struggling with stubborn weight-loss plateaus</li>
@@ -791,7 +791,7 @@ At NeuEu Medical, we help you choose the safest, most effective option for your 
    style="display:inline-block; padding:12px 24px; background-color:#761010; border-radius:8px; color:white; text-decoration:none; font-weight:bold;">
   Book your free consultation today
 </a>
-<br>
+<br><br>
 <h2>Medical Disclaimer:</h2>
 <p>
 This content is for informational and educational purposes only and is not medical advice.
