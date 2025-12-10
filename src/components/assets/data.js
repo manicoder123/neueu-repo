@@ -614,7 +614,7 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
   Book your free consultation today 
 </a>`
 },
-    {
+   {
   title: 'Semaglutide vs Tirzepatide: Which Weight Loss Injection Is Right for You?',
   date: 'November 19, 2025',
   category: 'Weightloss',
@@ -631,7 +631,7 @@ But when both sound effective, how do you know which is best for you?
 At NeuEu Medical, we don’t believe in one-size-fits-all plans.
 Every patient’s body, metabolism, and goals are unique — and your treatment should be too.
 Let’s explore how Semaglutide and Tirzepatide compare so you can make an informed decision.
-</p>
+</p><br><br>
 
 <h2>What Are GLP-1 Medications?</h2>
 
@@ -647,33 +647,33 @@ Let’s explore how Semaglutide and Tirzepatide compare so you can make an infor
 <p>
 However, while they share similarities, they work slightly differently — and that difference can make one a better fit for your needs.
 </p>
-
+<br>
 <h2>Semaglutide: The Proven Foundation of Medical Weight Loss</h2>
 
 <p>
 <b>Semaglutide</b> (brand names Wegovy and Ozempic) was the first FDA-approved GLP-1 medication for chronic weight management and remains one of the most trusted options available.
-</p>
+</p><br>
 
 <h2>How It Works</h2>
 
 <p>
 Semaglutide enhances your body’s GLP-1 hormone response, slowing digestion and signaling fullness to your brain.
 This naturally reduces calorie intake and supports gradual, steady fat loss — typically 1–2 pounds per week when paired with proper nutrition and professional guidance.
-</p>
+</p><br>
 
 <h2>Who It’s Best For</h2>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Those seeking consistent, sustainable weight loss</li>
   <li>Patients with insulin resistance, prediabetes, or type 2 diabetes</li>
   <li>Anyone who prefers a well-studied, time-tested option</li>
-</ul>
+</ul><br>
 
 <h2>Tirzepatide: The Next Generation of GLP-1 Therapy</h2>
 
 <p>
 Tirzepatide (brand name Mounjaro) represents the next step forward in medical weight management.
 It’s not just a GLP-1 agonist — it's a dual-agonist, targeting both GLP-1 and GIP (Glucose-Dependent Insulinotropic Polypeptide) receptors.
-</p>
+</p><br>
 
 <h2>How It Works</h2>
 
@@ -687,7 +687,7 @@ This dual mechanism helps many patients experience faster fat loss and greater m
   <li>Those struggling with stubborn weight-loss plateaus</li>
   <li>Patients who have previously tried Semaglutide with limited results</li>
   <li>Individuals with higher BMI or metabolic syndrome seeking stronger effects</li>
-</ul>
+</ul><br>
 
 <h2>Safety, Support, and Medical Oversight</h2>
 
@@ -704,16 +704,16 @@ Both Semaglutide and Tirzepatide are safe and highly effective when prescribed a
 </ul>
 
 <p>This full-circle approach helps you lose weight and keep it off by building healthy, sustainable habits.</p>
-
+<br>
 <h2>Which One Should You Choose?</h2>
 
 <p>
 If you’re new to GLP-1 therapy, Semaglutide is often an excellent starting point — steady, reliable, and well-researched.
-<br><br>
+<br>
 If you’ve already used Semaglutide or need more powerful metabolic effects, Tirzepatide might be your next step toward advanced fat loss.
-<br><br>
+<br>
 The right choice depends on your health history, body composition, and personal goals — and our providers will help you determine the best option during your consultation.
-</p>
+</p><br>
 
 <h2>Switching from Semaglutide to Tirzepatide</h2>
 
@@ -726,7 +726,7 @@ The right choice depends on your health history, body composition, and personal 
   <li>Reached a weight-loss plateau</li>
   <li>Experienced side effects or tolerance</li>
   <li>Been advised by your provider to optimize results</li>
-</ul>
+</ul><br>
 
 <h2>How to Switch Safely</h2>
 
@@ -742,7 +742,7 @@ The right choice depends on your health history, body composition, and personal 
 Even if you were on a higher Semaglutide dose, your provider will start Tirzepatide low because it works on two hormone pathways.
 Your body needs time to adapt.
 </p>
-
+<br>
 <h2>From Tirzepatide → Semaglutide</h2>
 
 <ol style="padding-left: 1.5rem; list-style-type: decimal;">
@@ -758,7 +758,7 @@ Both medications remain in your system for several days, so your progress won’
 <br><br>
 <b>⚠️ Never combine</b> Semaglutide and Tirzepatide. Taking them together does not increase results and can raise the risk of side effects.
 </p>
-
+<br>
 <h2>Start Your Personalized GLP-1 Journey at NeuEu Medical</h2>
 
 <p>
@@ -774,24 +774,24 @@ At NeuEu Medical, we help you choose the safest, most effective option for your 
   <li>Prescription & Delivery — medication shipped directly to your door.</li>
   <li>Continuous Support — coaching, community, and 24/7 messaging.</li>
 </ul>
-
+<br>
 <h2>Transparent Pricing Includes:</h2>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Unlimited provider consultations</li>
   <li>Medication and supplies</li>
   <li>Access to our patient app for progress tracking</li>
   <li>Ongoing coaching and nutrition support</li>
-</ul>
+</ul><br>
 
 <h2>Ready to start your transformation?</h2>
 
-<p>Book your free consultation and start your personalized GLP-1 journey with NeuEu Medical today.</p>
+<p>Book your free consultation and start your personalized GLP-1 journey with NeuEu Medical today.</p><br>
 
 <a href="https://offer.neueumed.com/free-consultation" 
    style="display:inline-block; padding:12px 24px; background-color:#761010; border-radius:8px; color:white; text-decoration:none; font-weight:bold;">
   Book your free consultation today
 </a>
-
+<br>
 <h2>Medical Disclaimer:</h2>
 <p>
 This content is for informational and educational purposes only and is not medical advice.
