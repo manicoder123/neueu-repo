@@ -811,7 +811,7 @@ NeuEu Medical is not affiliated with any pharmaceutical manufacturer.
   image: '/images/GLP-1-weight-loss-treatments.jpg',
   slug: 'glp-1-weight-loss-treatments-explained-what-every-patient-Should-know-before-starting',
   content: `
-  <h4>A Fresh Start: Why GLP-1 Medications Are Changing the Way We Lose Weight</h4><br>
+  <h4>A Fresh Start: Why GLP-1 Medications Are Changing the Way We Lose Weight</h4>
 <p>
 If you’ve ever felt frustrated, stuck, or overwhelmed in your weight-loss journey, you’re not alone and you’re not the problem. Your biology plays a major role in appetite, cravings, metabolism, and how your body responds to diet and exercise.
 That’s why GLP-1 medications have become such life-changing tools for so many people.<br>
@@ -834,30 +834,30 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
 <p>This powerful combination makes weight loss feel more natural and less forced, helping your body work with you instead of against you.</p>
 <br>
 <h2>The Most Popular GLP-1 Options Available Today</h2><br>
-<h4>Semaglutide</h4><br>
+<h4>Semaglutide</h4>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Weekly injection</li>
   <li>Excellent clinical results</li>
   <li>Helps reduce emotional eating and constant hunger</li>
 </ul><br>
-<h4> Tirzepatide</h4><br>
+<h4> Tirzepatide</h4>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Weekly injection</li>
   <li>Targets two metabolic pathways</li>
   <li>Often leads to even greater weight loss than semaglutide</li>
 </ul>
 <p>At NeuEu Weightloss, we help you choose the option that best fits your goals, health profile, and lifestyle</p><br>
-<br><br>
-<h4>Why Patients Across the U.S. Love GLP-1 Programs</h4><br>
-<h2>People choose GLP-1 therapy because the results feel achievable, realistic, and sustainable.<br>With the right guidance, patients experience:</h2>
-<h4>✔ Weight Loss That Finally Feels Possible</h4><br>
-<p>No extreme dieting. No impossible workout routines. Just science-backed support helping your body reset.</p><br><br>
-<h4>✔ Better Metabolic Health</h4><br>
-<p>Many patients see improvements in blood sugar, inflammation, cholesterol, blood pressure, and overall energy.</p><br><br>
-<h4>✔ A Sense of Freedom and Control</h4><br>
-<p>GLP-1s help quiet constant hunger — giving you the space to build healthier habits without feeling deprived.</p><br><br>
-<h4>✔ Continuous Medical Support With NeuEu Weightloss</h4><br>
-<p>From your first dose to long-term maintenance, our team is with you every step of the way.</p><br><br>
+<br>
+<h2>Why Patients Across the U.S. Love GLP-1 Programs</h2><br>
+<h4>People choose GLP-1 therapy because the results feel achievable, realistic, and sustainable.<br>With the right guidance, patients experience:</h4><br>
+<h4><b>✔ Weight Loss That Finally Feels Possible</b></h4>
+<p>No extreme dieting. No impossible workout routines. Just science-backed support helping your body reset.</p><br>
+<h4><b>✔ Better Metabolic Health</b></h4>
+<p>Many patients see improvements in blood sugar, inflammation, cholesterol, blood pressure, and overall energy.</p><br>
+<h4><b>✔ A Sense of Freedom and Control</b></h4>
+<p>GLP-1s help quiet constant hunger — giving you the space to build healthier habits without feeling deprived.</p><br>
+<h4><b>✔ Continuous Medical Support With NeuEu Weightloss.</b></h4>
+<p>From your first dose to long-term maintenance, our team is with you every step of the way.</p><br>
 
 <h2>What to Know Before Starting GLP-1 Therapy</h2><br>
 <h4>1. Eligibility Requirements</h4>
@@ -867,7 +867,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Your BMI is 27+ with a related condition (high blood pressure, insulin resistance, sleep apnea, high cholesterol)</li>
 </ul><br>
 <p>Not sure where you land? NeuEu’s medical team will evaluate your eligibility during your first visit.</p>
-<br><br>
+<br>
 
 <h2>Have Hope but Have Realistic Expectations</h2>
 <p>GLP-1 medications work extremely well, but understanding the process helps you stay motivated:</p><br>
@@ -878,7 +878,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Consistency matters</li>
   <li>Stopping without a plan can lead to regain</li>
 </ul><br>
-<p>With NeuEu, you’ll never be guessing we adjust dosing, provide check-ins, and help you stay comfortable and consistent.</p><br><br>
+<p>With NeuEu, you’ll never be guessing we adjust dosing, provide check-ins, and help you stay comfortable and consistent.</p><br>
 <h2>3. Lifestyle Still Matters (But We Make It Simple)</h2><br>
 <p>GLP-1 therapy works best when paired with:</p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
@@ -888,7 +888,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Mindful eating habits</li>
 </ul><br>
 <p>No crash dieting. No punishment. Just realistic improvements supported by coaching, education, and guidance from our clinical team.</p>
-<br><br>
+<br>
 <h2>Insurance & Cost Differences Across States</h2>
 <br>
 <p><b>Coverage varies widely depending on:</b></p><br>
@@ -897,8 +897,8 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Whether medications are prescribed for weight loss vs diabetes</li>
   <li>Your specific medical profile</li>
   <li>Prior authorization requirements</li>
-</ul><br>
-<p><br>Some plans cover GLP-1s; others don’<b></p><br>
+</ul>
+<p><b>Some plans cover GLP-1s; others don’<b></p><br>
 <h4>NeuEu helps you navigate:</h4><br>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Insurance questions</li>
@@ -906,7 +906,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Affordable compounded options</li>
   <li>Clear, upfront self-pay pricing</li>
 </ul><br>
-<p>Wherever you live, we make this process easier.</p><br><br>  
+<p>Wherever you live, we make this process easier.</p><br>
 <h2>Side Effects: What to Expect (And Why You’ll Be Supported)</h2><br>
 <p><b>Most side effects are temporary as your body gets used to the medication:</b></p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
@@ -925,7 +925,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Check-ins and guidance</li>
 </ul><br>
 <p>Rare risks like gallbladder issues or pancreatitis are monitored carefully through medical supervision.</p>
-<br><br>
+<br>
 
 <h2>Serving You Across Multiple States</h2><br>
 <p>NeuEu Weightloss proudly serves patients across multiple states through virtual and hybrid care, bringing expert support directly to:</p>
@@ -937,9 +937,9 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Individuals with limited local access to specialized care</li>
 </ul>
 <p>Whether you’re local or remote, our telehealth model ensures you receive consistent, personalized medical support.</p>
-<br><br>
+<br>
 <h2>Why Patients Choose NeuEu Weightloss</h2><br>
-<p>Because our approach is centered around you.</p><br>
+<p>Because our approach is centered around you.</p>
 <p>With NeuEu, you receive:</p><br>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>A personalized medical evaluation.</li>
