@@ -618,7 +618,7 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
   title: 'Semaglutide vs Tirzepatide: Which Weight Loss Injection Is Right for You?',
   date: 'November 19, 2025',
   category: 'Weightloss',
-  image: '/images/semaglutide-vs-tirzepatide.png',
+  image: '/images/semaglutide-vs-tirzepatide.jpg',
   slug: 'semaglutide-vs-tirzepatide-which-weight-loss-injection-is-right-for-you',
   content: `
 <p>
