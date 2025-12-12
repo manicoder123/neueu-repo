@@ -898,7 +898,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Your specific medical profile</li>
   <li>Prior authorization requirements</li>
 </ul>
-<p><b>Some plans cover GLP-1s; others don’<b></p><br>
+<p><b>Some plans cover GLP-1s; others don’</b></p><br>
 <h4>NeuEu helps you navigate:</h4><br>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Insurance questions</li>
