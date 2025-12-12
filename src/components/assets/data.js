@@ -805,6 +805,8 @@ NeuEu Medical is not affiliated with any pharmaceutical manufacturer.
 `
 },
     {
+        meta_title: 'GLP-1 Weight Loss Guide: Semaglutide & Tirzepatide Explained',
+        meta_description: 'GLP-1 Weight Loss Treatments Explained: A friendly, complete guide for patients across multiple states considering semaglutide or Tirzepatide. Learn benefits, side effects, eligibility, costs.',
   title: 'GLP-1 Weight Loss Treatments Explained: What Every Patient Should Know Before Starting',
   date: 'Dec 06, 2025',
   category: 'Weightloss',
