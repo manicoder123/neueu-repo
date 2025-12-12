@@ -949,7 +949,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
 <p>You’re not just taking a medication you’re joining a program designed to help you thrive.</p><br>
 
 <h2>The Bottom Line</h2><br>
-<p><b>GLP-1 medications like semaglutide and Tirzepatide are some of the most powerful tools available for weight loss today. With the right medical guidance and a supportive plan, patients all over the country are achieving results they never thought possible. <br>
+<p>GLP-1 medications like semaglutide and Tirzepatide are some of the most powerful tools available for weight loss today. With the right medical guidance and a supportive plan, patients all over the country are achieving results they never thought possible. <br>
 If you’re ready for a program built around safety, support, and sustainable change, NeuEu Weightloss is here to guide you every step of the way.</p>`
 },
 ];
