@@ -834,13 +834,13 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
 <p>This powerful combination makes weight loss feel more natural and less forced, helping your body work with you instead of against you.</p>
 <br>
 <h2>The Most Popular GLP-1 Options Available Today</h2><br>
-<h4>Semaglutide</h4>
+<h4><b>Semaglutide</b></h4>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Weekly injection</li>
   <li>Excellent clinical results</li>
   <li>Helps reduce emotional eating and constant hunger</li>
 </ul><br>
-<h4> Tirzepatide</h4>
+<h4><b> Tirzepatide</b></h4>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Weekly injection</li>
   <li>Targets two metabolic pathways</li>
@@ -861,23 +861,23 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
 
 <h2>What to Know Before Starting GLP-1 Therapy</h2><br>
 <h4>1. Eligibility Requirements</h4>
-<p>You may be a candidate if:</p>
+<p><b>You may be a candidate if:</b></p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Your BMI is 30+, or</li>
   <li>Your BMI is 27+ with a related condition (high blood pressure, insulin resistance, sleep apnea, high cholesterol)</li>
-</ul><br>
+</ul>
 <p>Not sure where you land? NeuEu’s medical team will evaluate your eligibility during your first visit.</p>
 <br>
 
 <h2>Have Hope but Have Realistic Expectations</h2>
-<p>GLP-1 medications work extremely well, but understanding the process helps you stay motivated:</p><br>
+<p>GLP-1 medications work extremely well, but understanding the process helps you stay motivated:</p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Many patients notice appetite changes early</li>
   <li>Results improve steadily as doses are increased</li>
   <li>Side effects (nausea, bloating, constipation) are common at first</li>
   <li>Consistency matters</li>
   <li>Stopping without a plan can lead to regain</li>
-</ul><br>
+</ul>
 <p>With NeuEu, you’ll never be guessing we adjust dosing, provide check-ins, and help you stay comfortable and consistent.</p><br>
 <h2>3. Lifestyle Still Matters (But We Make It Simple)</h2><br>
 <p>GLP-1 therapy works best when paired with:</p>
@@ -886,10 +886,9 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>RStaying hydrated</li>
   <li>Gentle daily movement</li>
   <li>Mindful eating habits</li>
-</ul><br>
+</ul>
 <p>No crash dieting. No punishment. Just realistic improvements supported by coaching, education, and guidance from our clinical team.</p>
 <h2>Insurance & Cost Differences Across States</h2>
-<br>
 <p><b>Coverage varies widely depending on:</b></p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Insurance company</li>
