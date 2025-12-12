@@ -808,7 +808,7 @@ NeuEu Medical is not affiliated with any pharmaceutical manufacturer.
   title: 'GLP-1 Weight Loss Treatments Explained: What Every Patient Should Know Before Starting',
   date: 'Dec 06, 2025',
   category: 'Weightloss',
-  image: '/images/GLP-1-weight-loss.png',
+  image: '/images/GLP-1-weight-loss-treatments.jpg',
   slug: 'glp-1-weight-loss-treatments-explained-what-every-patient-Should-know-before-starting',
   content: `
   <h4>A Fresh Start: Why GLP-1 Medications Are Changing the Way We Lose Weight</h4><br>
