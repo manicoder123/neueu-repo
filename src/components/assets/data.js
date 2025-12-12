@@ -888,24 +888,23 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Mindful eating habits</li>
 </ul><br>
 <p>No crash dieting. No punishment. Just realistic improvements supported by coaching, education, and guidance from our clinical team.</p>
-<br>
 <h2>Insurance & Cost Differences Across States</h2>
 <br>
-<p><b>Coverage varies widely depending on:</b></p><br>
+<p><b>Coverage varies widely depending on:</b></p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Insurance company</li>
   <li>Whether medications are prescribed for weight loss vs diabetes</li>
   <li>Your specific medical profile</li>
   <li>Prior authorization requirements</li>
 </ul>
-<p><b>Some plans cover GLP-1s; others don’</b></p><br>
-<h4>NeuEu helps you navigate:</h4><br>
+<p>Some plans cover GLP-1s; others don’</p><br>
+<h4><b>NeuEu helps you navigate:</b></h4>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Insurance questions</li>
   <li>Documentation</li>
   <li>Affordable compounded options</li>
   <li>Clear, upfront self-pay pricing</li>
-</ul><br>
+</ul>
 <p>Wherever you live, we make this process easier.</p><br>
 <h2>Side Effects: What to Expect (And Why You’ll Be Supported)</h2><br>
 <p><b>Most side effects are temporary as your body gets used to the medication:</b></p>
@@ -929,7 +928,6 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
 
 <h2>Serving You Across Multiple States</h2><br>
 <p>NeuEu Weightloss proudly serves patients across multiple states through virtual and hybrid care, bringing expert support directly to:</p>
-<br>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>Urban and rural areas</li>
   <li>Busy professionals</li>
@@ -939,8 +937,8 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
 <p>Whether you’re local or remote, our telehealth model ensures you receive consistent, personalized medical support.</p>
 <br>
 <h2>Why Patients Choose NeuEu Weightloss</h2><br>
-<p>Because our approach is centered around you.</p>
-<p>With NeuEu, you receive:</p><br>
+<p>Because our approach is centered around you.</p><br>
+<p><b>With NeuEu, you receive:</b></p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>A personalized medical evaluation.</li>
   <li>Ongoing virtual follow-ups.</li>
@@ -948,7 +946,7 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
   <li>Nutrition + lifestyle guidance.</li>
   <li>Long-term success planning.</li>
   <li>Encouragement, accountability, and real partnership.</li>
-</ul><br>
+</ul>
 <p>You’re not just taking a medication you’re joining a program designed to help you thrive.</p><br>
 
 <h2>The Bottom Line</h2><br>
