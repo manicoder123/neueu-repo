@@ -1,5 +1,6 @@
 export const blogs = [
     {
+        /* Blog 1*/
         meta_title: 'The Future of Weight Loss: Discovering Tirzepatide',
         meta_description: 'Discover how Tirzepatide is transforming prescription weight loss. Learn from Neu Eu experts about telehealth, GLP‑1 programs, & achieving sustainable results.',
         title: 'The Future of Weight Loss: Discovering Tirzepatide and How Neu Eu Medical Is Revolutionizing Telehealth Services',
@@ -116,6 +117,8 @@ If you’re ready to begin your transformation, visit Neu Eu Medical today an
         `
     },
     {
+        /* Blog 2*/
+        
         meta_title: 'Semaglutide Weight Loss Program Guide Online | Neu Eu',
         meta_description: 'Explore the benefits of Semaglutide for effective weight loss. Neu Eu explains how GLP‑1 programs, online consultations, and expert care deliver real results.',
         title: 'Exploring Semaglutide for Weight Loss: An Exciting and Informative Guide',
@@ -232,6 +235,8 @@ If you’re ready to begin your transformation, visit Neu Eu Medical today an
         `
     },
     {
+        /* Blog 3*/
+        
         title: 'How GLP-1 Injections Helped Thousands Lose Weight',
         date: 'February 10, 2025',
         category: 'Weightloss',
@@ -346,6 +351,8 @@ If you’re ready to begin your transformation, visit Neu Eu Medical today an
         `
     },
     {
+        /* Blog 3*/
+        
         title: 'How GLP-1 Injections Helped Thousands Lose Weight',
         date: 'February 10, 2025',
         category: 'Weightloss',
@@ -460,6 +467,7 @@ If you’re ready to begin your transformation, visit Neu Eu Medical today an
         `
     },
         {
+            /* Blog 4*/
 title: 'How to Build a Personalized Meal Plan That Actually Works',
 date: 'November 05, 2025',
 category: 'Weightloss',
@@ -614,7 +622,9 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
   Book your free consultation today 
 </a>`
 },
+    
    {
+       /* Blog 5*/
   title: 'Semaglutide vs Tirzepatide: Which Weight Loss Injection Is Right for You?',
   date: 'November 19, 2025',
   category: 'Weightloss',
@@ -805,6 +815,7 @@ NeuEu Medical is not affiliated with any pharmaceutical manufacturer.
 `
 },
     {
+        /* Blog 6*/
         meta_title: 'GLP-1 Weight Loss Guide: Semaglutide & Tirzepatide Explained',
         meta_description: 'GLP-1 Weight Loss Treatments Explained: A friendly, complete guide for patients across multiple states considering semaglutide or Tirzepatide. Learn benefits, side effects, eligibility, costs.',
   title: 'GLP-1 Weight Loss Treatments Explained: What Every Patient Should Know Before Starting',
