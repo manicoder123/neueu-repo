@@ -355,6 +355,8 @@ If you’re ready to begin your transformation, visit Neu Eu Medical today an
     },
         {
             /* Blog 4*/
+ meta_title: 'Personalized Nutrition: Meal Planning Made Simple',
+ meta_description: 'Struggling with diets? Discover how personalized meal planning helps you lose weight, fuel your body, and stay consistent without guilt.',
 title: 'How to Build a Personalized Meal Plan That Actually Works',
 date: 'November 05, 2025',
 category: 'Weightloss',
@@ -512,6 +514,8 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
     
    {
        /* Blog 5*/
+  meta_title: 'Semaglutide vs Tirzepatide: Which Is Best for Weight Loss?',
+  meta_description: 'Compare Semaglutide vs Tirzepatide for weight loss. Learn benefits, side effects, results, and which GLP-1 injection may be right for you.',
   title: 'Semaglutide vs Tirzepatide: Which Weight Loss Injection Is Right for You?',
   date: 'November 19, 2025',
   category: 'Weightloss',
