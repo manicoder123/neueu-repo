@@ -479,7 +479,7 @@ If you burn 2,000 calories a day and eat 1,500 calories, you create a 500-calori
 <h2>Get Personalized Support with NeuEu Medical</h2>
 <p>
         At NeuEu Medical, we make weight loss simple, safe, and science-based.<br>
-        Our providers specialize in GLP-1 medications like semaglutide and Tirzepatide, proven options that support appetite control and long-term weight management when paired with a customized plan.
+        Our providers specialize in GLP-1 medications, proven options that support appetite control and long-term weight management when paired with a customized plan.
 </p>
 <br /><br />
 
