@@ -861,7 +861,7 @@ If you’re ready for a program built around safety, support, and sustainable ch
   date: 'Dec 20, 2025',
   category: 'Weightloss',
   image: '/images/blog-3.png',
-  slug: '/how-to-transition-Off-Semaglutide-without-regaining-weight—Physician-Approved-strategies-that-work',
+  slug: 'how-to-transition-Off-Semaglutide-without-regaining-weight—Physician-Approved-strategies-that-work',
   content: `
   <h4>How to Transition Off Semaglutide Without Regaining Weight — Physician-Approved Strategies That Work
 </h4><br>
