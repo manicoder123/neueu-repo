@@ -857,10 +857,10 @@ If you're considering a GLP-1 program and want to understand what to expect, thi
 If you’re ready for a program built around safety, support, and sustainable change, NeuEu Weightloss is here to guide you every step of the way.</p>`
 },
     {
-  title: 'How to Transition Off Semaglutide Without Regaining Weight — Physician-Approved Strategies That Work',
+  title: 'How to Transition Off Semaglutide Without Regaining Weight Physician-Approved Strategies That Work',
   date: 'Dec 20, 2025',
   category: 'Weightloss',
-  image: '/images/blog-3.png',
+  image: '/images/How to Transition.jpg',
   slug: 'how-to-transition-off-semaglutide-without-regaining-weight-physician-approved-strategies-that-work',
   content: `
 <p>
