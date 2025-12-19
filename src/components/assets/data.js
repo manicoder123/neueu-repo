@@ -963,6 +963,6 @@ Internal link suggestion: Link this section to your site’s nutrition guide or 
 <p><b>Suggested External Links:</b></p>
 <ul style="list-style: disc; padding-left: 1.5rem;">
   <li>American Diabetes Association (general guidance on GLP-1 medications).</li>
-  <li>Mayo Clinic resources on weight management.</li>
-},
+  <li>Mayo Clinic resources on weight management.</li>`
+    },
 ];
