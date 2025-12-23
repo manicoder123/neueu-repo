@@ -60,7 +60,7 @@ export const productData = [
     icon: <Engactionwhite />,
     bgClass: "bg-[#D77979]",
     title: "Medical Clearance for Med Spas",
-    price: "$99/visit",
+    price: "$39.99/visit",
     type: "GOOD FAITH EXAMS",
     calander: "https://offer.neueu.co/compounded-tirzepatide",
     features: [
