@@ -9,8 +9,8 @@ export const productData = [
 {
     icon: <AppointmentIcon />,
     bgClass: "bg-box3",
-    title: "Semaglutide Consultation (Brand Name)",
-    price: "$99/mo",
+    title: "MEDICAL WEIGHT LOSS",
+    price: "$99/visit",
     type: "Appointment Only",
     calander: "https://offer.neueu.co/branded-semaglutide",
     features: [
