@@ -203,7 +203,7 @@ export default function PricingPlans() {
                     }}
                     className="block text-center w-full border border-primary text-primary font-semibold py-2 rounded-full hover:bg-primary hover:text-white transition"
                   >
-                    Join Now
+                    Join Now!
                   </Link>
                 </motion.div>
               </div>
