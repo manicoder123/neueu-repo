@@ -69,6 +69,7 @@ export const productData = [
       "Review of Contraindications",
       "Treatment Authorization",
       "Quick & Compliant Process",
+      "Licensed provider approval"
     ],
     url: "https://offer.neueumed.com/tirzepatide-package-survey",
   },
