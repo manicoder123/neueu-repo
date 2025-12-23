@@ -27,8 +27,8 @@ export const productData = [
   {
     icon: <AppointmentIcon />,
     bgClass: "bg-[#FFDCCC]",
-    title: "Tirzepatide Consultation (Brand Name)",
-    price: "$99/mo",
+    title: "LIMITED URGENT CARE",
+    price: "$99/visit",
     type: "Appointment Only",
     calander: "https://offer.neueu.co/branded-tirzepatide",
     features: [
@@ -45,8 +45,8 @@ export const productData = [
   {
     icon: <Engaction />,
     bgClass: "bg-box1",
-    title: "Semaglutide Package (Compounded)",
-    price: "$329/mo",
+    title: "PSYCHIATRIC CARE",
+    price: "$99/visit",
     type: "Medication + Appointment",
     calander: "https://offer.neueu.co/compounded-semaglutide",
     features: [
@@ -63,8 +63,8 @@ export const productData = [
   {
     icon: <Engactionwhite />,
     bgClass: "bg-[#D77979]",
-    title: "Tirzepatide Package (Compounded)",
-    price: "$349/mo",
+    title: "GOOD FAITH EXAMS",
+    price: "$99/visit",
     type: "Medication + Appointment",
     calander: "https://offer.neueu.co/compounded-tirzepatide",
     features: [
