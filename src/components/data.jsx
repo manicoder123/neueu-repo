@@ -52,6 +52,7 @@ export const productData = [
       "Non-controlled Med Refills",
       "(No ADHD Stimulants)",
       "Compassionate, judgment-free care",
+     "Evidence-based care",
     ],
     url: "https://offer.neueumed.com/semaglutide-package-survey",
   },
