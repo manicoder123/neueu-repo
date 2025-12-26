@@ -10,7 +10,7 @@ export const productData = [
     icon: <AppointmentIcon />,
     bgClass: "bg-box3",
     title: "Consultation & Prescription Management",
-    price: "$99/visit",
+    price: "$90/visit",
     type: "MEDICAL WEIGHT LOSS",
     calander: "https://offer.neueu.co/branded-semaglutide",
     features: [
@@ -26,7 +26,7 @@ export const productData = [
     icon: <AppointmentIcon />,
     bgClass: "bg-[#FFDCCC]",
     title: "Telehealth for Common Conditions",
-    price: "$99/visit",
+    price: "$90/visit",
     type: "LIMITED URGENT CARE",
     calander: "https://offer.neueu.co/branded-tirzepatide",
     features: [
@@ -43,7 +43,7 @@ export const productData = [
     icon: <Engaction />,
     bgClass: "bg-box1",
     title: "Mental Wellness & Support",
-    price: "$99/visit",
+    price: "$90/visit",
     type: "PSYCHIATRIC CARE",
     calander: "https://offer.neueu.co/compounded-semaglutide",
     features: [
