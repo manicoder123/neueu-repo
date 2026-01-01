@@ -11,7 +11,7 @@ const urbanist = Urbanist({
 export const metadata = {
   title: "Neu Eu Terms & Conditions for Medical Weight Loss Services",
   description:
-    "Prescribed Medication Assisted Weight Loss Program That Gets Results",
+    "A prescribed, medication-assisted weight loss program designed to deliver real results with medical guidance, safety, and long-term success.",
 };
 const schemaData = {
   "@context": "https://schema.org",
