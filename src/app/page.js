@@ -20,6 +20,7 @@ import ScrollSection from "@/components/home/ScrollSection";
 export const metadata = {
   title: "Online Medical & Prescription Weight Loss Program | Neu Eu",
   description: "Achieve lasting results with Neu Eu’s online medical and prescription weight loss programs. Personalized care, proven GLP-1 therapies, and expert guidance.",
+ alternates: { canonical: "https://www.neueu.co/", },
 };
 
 export default function Home() {
