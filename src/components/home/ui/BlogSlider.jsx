@@ -51,6 +51,7 @@ export default function BlogSlider() {
                         name="description"
                         content="Explore Neu Eu’s weight loss blog for insights on medication‑assisted programs, telehealth care, and expert advice on semaglutide, tirzepatide, and more."
                     />
+                    <link rel="canonical" href="https://www.neueu.co/blog" />
                 </Helmet>
             </HelmetProvider>
             <motion.h1
