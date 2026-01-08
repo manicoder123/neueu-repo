@@ -998,7 +998,7 @@ With physician-approved strategies — slow tapering, nutrition, strength traini
   title: 'Reset Before the Holidays: How GLP-1 Therapy Helps Prevent Weight Gain',
   date: 'jan 08, 2026',
   category: 'Weightloss',
-  image: '/images/How to Transition.jpg',
+  image: '/images/GLP-1-Therapy.jpg',
   slug: 'reset-before-the-holidays-how-hlp-1-therapy-helps-prevent-weight-gain',
   content: `
 <p>The holiday season is one of the most challenging times of year for maintaining healthy habits. Between festive meals, social gatherings,
